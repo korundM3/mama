@@ -1,72 +1,471 @@
 [
-    {
-        "id": 1,
-        "anime": "0-saiji Start Dash Monogatari Season 2 - Ending 1",
-        "name": "\"Beyond the Trajectory\" by Chata",
-        "video": "https://eudist.animemusicquiz.com/5u2mhk.webm",
-        "mp3": null
-    },
-    {
-        "id": 2,
-        "anime": "1-punkan dake Furete mo Ii yo... Share House no Himitsu Rule. - Ending 1",
-        "name": "\"Session Sadame Night\" by Dai Takanashi",
-        "video": "https://eudist.animemusicquiz.com/f23gq2.webm",
-        "mp3": "https://eudist.animemusicquiz.com/ne5vos.mp3"
-    },
-    {
-        "id": 3,
-        "anime": "A-Rank Party wo Ridatsu shita Ore wa, Moto Oshiego-tachi to Meikyuu Shinbu wo Mezasu. - Ending 1",
-        "name": "\"Treasure Chest\" by Yuki Tanaka",
-        "video": "https://eudist.animemusicquiz.com/agsvoz.webm",
-        "mp3": "https://eudist.animemusicquiz.com/i3vp9q.mp3"
-    },
-    {
-        "id": 4,
-        "anime": "Akuyaku Reijou Tensei Ojisan - Ending 1",
-        "name": "\"Matsuken Samba II\" by Kazuhiko Inoue, M・A・O",
-        "video": "https://eudist.animemusicquiz.com/e8q47f.webm",
-        "mp3": "https://eudist.animemusicquiz.com/dje0hr.mp3"
-    },
-    {
-        "id": 5,
-        "anime": "Amagami-san Chi no Enmusubi - Ending 2",
-        "name": "\"Kamisama no Iu Toori!\" by ≠ME",
-        "video": "https://eudist.animemusicquiz.com/p4etz1.webm",
-        "mp3": "https://eudist.animemusicquiz.com/wz8z3p.mp3"
-    },
-    {
-        "id": 6,
-        "anime": "Ameku Takao no Suiri Karte - Ending 1",
-        "name": "\"will be fine\" by Gospellers feat. Anly",
-        "video": "https://eudist.animemusicquiz.com/0spf2m.webm",
-        "mp3": "https://eudist.animemusicquiz.com/iagxs7.mp3"
-    },
-    {
-        "id": 7,
-        "anime": "Ao no Exorcist: Yosuga-hen - Ending 1",
-        "name": "\"Overlap\" by Shiyui",
-        "video": "https://eudist.animemusicquiz.com/3z1d8i.webm",
-        "mp3": "https://eudist.animemusicquiz.com/162vdv.mp3"
-    },
-    {
-        "id": 8,
-        "anime": "Ao no Hako - Ending 2",
-        "name": "\"Contrast\" by TOMOO",
-        "video": "https://eudist.animemusicquiz.com/qmcqk3.webm",
-        "mp3": "https://eudist.animemusicquiz.com/l2sgqo.mp3"
-    },
-    {
-        "id": 9,
-        "anime": "Ao no Miburo - Ending 2",
-        "name": "\"Fragment\" by osage",
-        "video": "https://eudist.animemusicquiz.com/8b8iva.webm",
-        "mp3": "https://eudist.animemusicquiz.com/0yt4lm.mp3"
-    },
-    {
-        "id": 10,
-        "anime": "Arafou Otoko no Isekai Tsuuhan - Ending 1",
-        "name": "\"Aicraft\" by Kiminone",
-        "video": "https://eudist.animemusicquiz.com/ohlrpc.webm",
-        "mp3": "https://eudist.animemusicquiz.com/74jbjn.mp3"
-    }
+  {
+    "id": 1,
+    "anime": "Futari wa Milky Holmes - Ending 1",
+    "name": "\"Seishun Beginner!\" by Milky Holmes Feathers",
+    "video": "https://eudist.animemusicquiz.com/w5nd65.webm",
+    "mp3": null
+  },
+  {
+    "id": 2,
+    "anime": "Tantei Kageki Milky Holmes TD - Insert Song",
+    "name": "\"Ii Hi TD\" by Milky Holmes & Feathers & Yoshino Nanjo & Emi Nitta",
+    "video": "https://eudist.animemusicquiz.com/3mlulf.webm",
+    "mp3": null
+  },
+  {
+    "id": 3,
+    "anime": "Cardfight!! Vanguard G GIRS Crisis-hen - Ending 1",
+    "name": "\"Don't Look Back\" by Rummy Labyrinth",
+    "video": "https://eudist.animemusicquiz.com/q83sk8.webm",
+    "mp3": null
+  },
+  {
+    "id": 4,
+    "anime": "BanG Dream! - Ending 2",
+    "name": "\"Teardrops\" by Poppin'Party",
+    "video": "https://eudist.animemusicquiz.com/5blknn.webm",
+    "mp3": null
+  },
+  {
+    "id": 5,
+    "anime": "BanG Dream! - Ending 3",
+    "name": "\"Yumemiru Sunflower\" by Poppin'Party",
+    "video": "https://eudist.animemusicquiz.com/ixn80f.webm",
+    "mp3": null
+  },
+  {
+    "id": 6,
+    "anime": "BanG Dream! - Insert Song",
+    "name": "\"Watashi no Kokoro wa Choco Cornet\" by Poppin'Party",
+    "video": "https://eudist.animemusicquiz.com/ibcpn4.webm",
+    "mp3": null
+  },
+  {
+    "id": 7,
+    "anime": "BanG Dream! - Insert Song",
+    "name": "\"STAR BEAT!~Hoshi no Kodou~\" by Poppin'Party",
+    "video": "https://eudist.animemusicquiz.com/x1ix31.webm",
+    "mp3": null
+  },
+  {
+    "id": 8,
+    "anime": "BanG Dream! - Insert Song",
+    "name": "\"Mae e Susume!\" by Poppin'Party",
+    "video": "https://eudist.animemusicquiz.com/2vypew.webm",
+    "mp3": null
+  },
+  {
+    "id": 9,
+    "anime": "Cardfight!! Vanguard G Next - Ending 1",
+    "name": "\"Wing of Image\" by Rummy Labyrinth",
+    "video": "https://eudist.animemusicquiz.com/iping3.webm",
+    "mp3": null
+  },
+  {
+    "id": 10,
+    "anime": "Slow Start - Opening 1",
+    "name": "\"ne! ne! ne!\" by STARTails☆",
+    "video": "https://eudist.animemusicquiz.com/pijqdc.webm",
+    "mp3": null
+  },
+  {
+    "id": 11,
+    "anime": "Slow Start - Ending 2",
+    "name": "\"Yuuyake to Issho ni\" by STARTails☆",
+    "video": "https://eudist.animemusicquiz.com/dafnp9.webm",
+    "mp3": null
+  },
+  {
+    "id": 12,
+    "anime": "Future Card Shin Buddyfight - Opening 1",
+    "name": "\"Saa Ikou!\" by Poppin'Party",
+    "video": "https://eudist.animemusicquiz.com/m8f9rk.webm",
+    "mp3": null
+  },
+  {
+    "id": 13,
+    "anime": "Shoujo☆Kageki Revue Starlight - Ending 9",
+    "name": "\"Fly Me to the Star\" by Maho Tomita, Hinata Satou, Haruki Iwata, Moeka Koizumi, Aina Aiba, Teru Ikuta, Ayasa Ito",
+    "video": "https://eudist.animemusicquiz.com/oajhad.webm",
+    "mp3": null
+  },
+  {
+    "id": 14,
+    "anime": "Shoujo☆Kageki Revue Starlight - Insert Song",
+    "name": "\"Hanasaka Uta\" by Teru Ikuta & Ayasa Ito",
+    "video": "https://eudist.animemusicquiz.com/r083hh.webm",
+    "mp3": null
+  },
+  {
+    "id": 15,
+    "anime": "BanG Dream! 2nd Season - Insert Song",
+    "name": "\"Happy Happy Party!\" by Poppin'Party",
+    "video": "https://eudist.animemusicquiz.com/gxpjek.webm",
+    "mp3": null
+  },
+  {
+    "id": 16,
+    "anime": "BanG Dream! 2nd Season - Insert Song",
+    "name": "\"Kirakira da toka Yume da toka ~Sing Girls~\" by Poppin'Party",
+    "video": "https://eudist.animemusicquiz.com/co6i43.webm",
+    "mp3": null
+  },
+  {
+    "id": 17,
+    "anime": "BanG Dream! 2nd Season - Insert Song",
+    "name": "\"Returns\" by Poppin'Party",
+    "video": "https://eudist.animemusicquiz.com/oh0dub.webm",
+    "mp3": null
+  },
+  {
+    "id": 18,
+    "anime": "BanG Dream! 2nd Season - Insert Song",
+    "name": "\"Dreamers Go!\" by Poppin'Party",
+    "video": "https://eudist.animemusicquiz.com/upw7dk.webm",
+    "mp3": null
+  },
+  {
+    "id": 19,
+    "anime": "BanG Dream! Film Live - Ending 1",
+    "name": "\"Jumpin'\" by Poppin'Party",
+    "video": "https://eudist.animemusicquiz.com/vnik2s.webm",
+    "mp3": null
+  },
+  {
+    "id": 20,
+    "anime": "BanG Dream! Film Live - Insert Song",
+    "name": "\"Double Rainbow\" by Poppin'Party",
+    "video": "https://eudist.animemusicquiz.com/mb6vuv.webm",
+    "mp3": null
+  },
+  {
+    "id": 21,
+    "anime": "BanG Dream! Film Live - Insert Song",
+    "name": "\"Kizuna Music♪\" by Poppin'Party",
+    "video": "https://eudist.animemusicquiz.com/x5b7j4.webm",
+    "mp3": null
+  },
+  {
+    "id": 22,
+    "anime": "Cardfight!! Vanguard: Shinemon-hen - Insert Song",
+    "name": "\"Mermaid Graffiti\" by Ayasa Ito",
+    "video": "https://eudist.animemusicquiz.com/6kbt39.webm",
+    "mp3": null
+  },
+  {
+    "id": 23,
+    "anime": "Mini Van 2 - Ending 1",
+    "name": "\"Friends\" by Rummy Labyrinth",
+    "video": "https://eudist.animemusicquiz.com/t9sllm.webm",
+    "mp3": null
+  },
+  {
+    "id": 24,
+    "anime": "BanG Dream! Asonjatta! - Insert Song",
+    "name": "\"Hachigatsu no if\" by Poppin'Party",
+    "video": "https://eudist.animemusicquiz.com/2lw9ab.webm",
+    "mp3": null
+  },
+  {
+    "id": 25,
+    "anime": "Shoujo☆Conto All Starlight - Ending 1",
+    "name": "\"Butai Shoujo Taisou\" by Starlight Kuku-gumi",
+    "video": "https://eudist.animemusicquiz.com/v9bxzh.webm",
+    "mp3": null
+  },
+  {
+    "id": 26,
+    "anime": "BanG Dream! 3rd Season - Ending 3",
+    "name": "\"Yume o Uchinuku Shunkan ni!\" by Poppin'Party×Roselia×RAISE A SUILEN",
+    "video": "https://eudist.animemusicquiz.com/9wa7og.webm",
+    "mp3": null
+  },
+  {
+    "id": 27,
+    "anime": "BanG Dream! 3rd Season - Insert Song",
+    "name": "\"Step×Step!\" by Poppin'Party",
+    "video": "https://eudist.animemusicquiz.com/m6gvc5.webm",
+    "mp3": null
+  },
+  {
+    "id": 28,
+    "anime": "BanG Dream! 3rd Season - Insert Song",
+    "name": "\"Poppin' Shuffle\" by Poppin'Party",
+    "video": "https://eudist.animemusicquiz.com/sl2vax.webm",
+    "mp3": null
+  },
+  {
+    "id": 29,
+    "anime": "BanG Dream! 3rd Season - Insert Song",
+    "name": "\"Mirai Train\" by Poppin'Party",
+    "video": "https://eudist.animemusicquiz.com/8wck4t.webm",
+    "mp3": null
+  },
+  {
+    "id": 30,
+    "anime": "Shoujo☆Kageki Revue Starlight: Rondo Rondo Rondo - Ending 1",
+    "name": "\"Saisei Sanbikyoku\" by Starlight Kuku-gumi",
+    "video": "https://eudist.animemusicquiz.com/hfwfkr.webm",
+    "mp3": null
+  },
+  {
+    "id": 31,
+    "anime": "Shoujo☆Kageki Revue Starlight: Rondo Rondo Rondo - Insert Song",
+    "name": "\"Yoi Hanasaka Uta\" by Teru Ikuta & Ayasa Ito",
+    "video": "https://eudist.animemusicquiz.com/3o7k2r.webm",
+    "mp3": null
+  },
+  {
+    "id": 32,
+    "anime": "Shoujo☆Kageki Revue Starlight: Rondo Rondo Rondo - Insert Song",
+    "name": "\"Butai Shoujo Kokoroe Makuai\" by Momoyo Koyama, Maho Tomita, Hinata Satou, Haruki Iwata, Moeka Koizumi, Aina Aiba, Teru Ikuta, Ayasa Ito",
+    "video": "https://eudist.animemusicquiz.com/0j55ei.webm",
+    "mp3": null
+  },
+  {
+    "id": 33,
+    "anime": "Shoujo☆Kageki Revue Starlight: Rondo Rondo Rondo - Insert Song",
+    "name": "\"Hoshi no Dialogue\" by Starlight Kuku-gumi",
+    "video": "https://eudist.animemusicquiz.com/ium44c.webm",
+    "mp3": null
+  },
+  {
+    "id": 34,
+    "anime": "Gekijouban Shoujo☆Kageki Revue Starlight - Ending 1",
+    "name": "\"Watashi-tachi wa Mou Butai no Ue\" by Starlight Kuku-gumi",
+    "video": "https://eudist.animemusicquiz.com/u8vc9p.webm",
+    "mp3": null
+  },
+  {
+    "id": 35,
+    "anime": "Gekijouban Shoujo☆Kageki Revue Starlight - Insert Song",
+    "name": "\"Wagamama Highway\" by Teru Ikuta & Ayasa Ito",
+    "video": "https://eudist.animemusicquiz.com/zfhvna.webm",
+    "mp3": null
+  },
+  {
+    "id": 36,
+    "anime": "Taishou Otome Otogibanashi - Ending 2",
+    "name": "\"Koi no Uta\" by Ayasa Ito",
+    "video": "https://eudist.animemusicquiz.com/f6tzpk.webm",
+    "mp3": null
+  },
+  {
+    "id": 37,
+    "anime": "Taishou Otome Otogibanashi - Insert Song",
+    "name": "\"Tsukiyo no Kotori\" by Ayasa Ito",
+    "video": "https://eudist.animemusicquiz.com/rbsfy9.webm",
+    "mp3": null
+  },
+  {
+    "id": 38,
+    "anime": "BanG Dream! Poppin'Dream! - Opening 1",
+    "name": "\"Poppin'Dream!\" by Poppin'Party",
+    "video": "https://eudist.animemusicquiz.com/ycq2b1.webm",
+    "mp3": null
+  },
+  {
+    "id": 39,
+    "anime": "BanG Dream! Poppin'Dream! - Ending 1",
+    "name": "\"Hoshi no Yakusoku\" by Poppin'Party",
+    "video": "https://eudist.animemusicquiz.com/3nqeli.webm",
+    "mp3": null
+  },
+  {
+    "id": 40,
+    "anime": "BanG Dream! Poppin'Dream! - Insert Song",
+    "name": "\"Hashiri Hajimeta Bakari no Kimi ni ~Popipa Acoustic Ver.~\" by Poppin'Party",
+    "video": "https://eudist.animemusicquiz.com/lrz27q.webm",
+    "mp3": null
+  },
+  {
+    "id": 41,
+    "anime": "BanG Dream! Poppin'Dream! - Insert Song",
+    "name": "\"Breakthrough!\" by Poppin'Party",
+    "video": "https://eudist.animemusicquiz.com/ac6sol.webm",
+    "mp3": null
+  },
+  {
+    "id": 42,
+    "anime": "BanG Dream! Poppin'Dream! - Insert Song",
+    "name": "\"Time Lapse\" by Poppin'Party",
+    "video": "https://eudist.animemusicquiz.com/y367bp.webm",
+    "mp3": null
+  },
+  {
+    "id": 43,
+    "anime": "BanG Dream! Poppin'Dream! - Insert Song",
+    "name": "\"Tokimeki Experience!\" by Poppin'Party",
+    "video": "https://eudist.animemusicquiz.com/h3206p.webm",
+    "mp3": null
+  },
+  {
+    "id": 44,
+    "anime": "Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei - Ending 1",
+    "name": "\"Moonlight Walk\" by Poppin'Party",
+    "video": "https://eudist.animemusicquiz.com/6l8ha9.webm",
+    "mp3": null
+  },
+  {
+    "id": 45,
+    "anime": "Mewkledreamy Mix! - Insert Song",
+    "name": "\"UP ON THE STAGE!!\" by Ayasa Ito",
+    "video": "https://eudist.animemusicquiz.com/mznpkc.webm",
+    "mp3": null
+  },
+  {
+    "id": 46,
+    "anime": "Boku-tachi no Remake - Opening 1",
+    "name": "\"Koko kara Saki wa Uta ni Naranai\" by Poppin'Party",
+    "video": "https://eudist.animemusicquiz.com/zn0mk3.webm",
+    "mp3": null
+  },
+  {
+    "id": 47,
+    "anime": "BanG Dream! Film Live 2nd Stage - Ending 1",
+    "name": "\"Yume o Uchinuku Shunkan ni!\" by Poppin'Party",
+    "video": "https://eudist.animemusicquiz.com/yjcgcg.webm",
+    "mp3": null
+  },
+  {
+    "id": 48,
+    "anime": "BanG Dream! Film Live 2nd Stage - Ending 2",
+    "name": "\"Kizuna-iro no Ensemble\" by Poppin'Party×Pastel*Palettes×Morfonica",
+    "video": "https://eudist.animemusicquiz.com/uyvj8l.webm",
+    "mp3": null
+  },
+  {
+    "id": 49,
+    "anime": "BanG Dream! Film Live 2nd Stage - Insert Song",
+    "name": "\"Initial\" by Poppin'Party",
+    "video": "https://eudist.animemusicquiz.com/1cpl5p.webm",
+    "mp3": null
+  },
+  {
+    "id": 50,
+    "anime": "BanG Dream! Film Live 2nd Stage - Insert Song",
+    "name": "\"CiRCLING\" by Poppin'Party",
+    "video": "https://eudist.animemusicquiz.com/72sk8v.webm",
+    "mp3": null
+  },
+  {
+    "id": 51,
+    "anime": "Reiwa no Di Gi Charat - Ending 1",
+    "name": "\"Welcome! (D-POP version)\" by Asami Sanada, Miyuki Sawashiro, Kyoko Hikami, Satomi Akesaka, Ayasa Ito",
+    "video": "https://eudist.animemusicquiz.com/7bxu83.webm",
+    "mp3": null
+  },
+  {
+    "id": 52,
+    "anime": "Reiwa no Di Gi Charat - Insert Song",
+    "name": "\"PARTY☆NIGHT (D-POP version)\" by Asami Sanada, Miyuki Sawashiro, Kyoko Hikami, Satomi Akesaka, Ayasa Ito",
+    "video": "https://eudist.animemusicquiz.com/53ruba.webm",
+    "mp3": null
+  },
+  {
+    "id": 53,
+    "anime": "Mou Ippon! - Ending 1",
+    "name": "\"Ipponmichi\" by Aoba Nishi Koukou Judo-bu",
+    "video": "https://eudist.animemusicquiz.com/ojx27a.webm",
+    "mp3": null
+  },
+  {
+    "id": 54,
+    "anime": "Kunoichi Tsubaki no Mune no Uchi - Ending 11",
+    "name": "\"Akane-gumi Katsudou Nisshi ~Usagi-han~\" by Saya Aizawa・Eri Yukimura・Ayasa Ito",
+    "video": "https://eudist.animemusicquiz.com/69irs7.webm",
+    "mp3": null
+  },
+  {
+    "id": 55,
+    "anime": "Kunoichi Tsubaki no Mune no Uchi - Ending 13",
+    "name": "\"Akane-gumi Katsudou Nisshi ~Neushitorautatsumiumahitsujisarutoriinui Daishuugou!~\" by Neushitorautatsumiumahitsujisarutoriinui",
+    "video": "https://eudist.animemusicquiz.com/ydzpb9.webm",
+    "mp3": null
+  },
+  {
+    "id": 56,
+    "anime": "Teppen!!!!!!!!!!!!!!! - Opening 1",
+    "name": "\"Teppen Tengoku ~TOP OF THE LAUGH!!!~\" by Teppen All Stars",
+    "video": "https://eudist.animemusicquiz.com/fperb6.webm",
+    "mp3": null
+  },
+  {
+    "id": 57,
+    "anime": "Teppen!!!!!!!!!!!!!!! - Ending 2",
+    "name": "\"Hug Your Leg\" by Young Waiwai",
+    "video": "https://eudist.animemusicquiz.com/s49gy3.webm",
+    "mp3": null
+  },
+  {
+    "id": 58,
+    "anime": "BanG Dream! Girls Band Party!: 5th Anniversary Animation - CiRCLE THANKS PARTY! - Ending 2",
+    "name": "\"SAKURA MEMORIES\" by Poppin'Party",
+    "video": "https://eudist.animemusicquiz.com/y8mc2m.webm",
+    "mp3": null
+  },
+  {
+    "id": 59,
+    "anime": "BanG Dream! Girls Band Party!: 5th Anniversary Animation - CiRCLE THANKS PARTY! - Insert Song",
+    "name": "\"Photograph\" by Poppin'Party",
+    "video": "https://eudist.animemusicquiz.com/1h10oq.webm",
+    "mp3": null
+  },
+  {
+    "id": 60,
+    "anime": "BanG Dream! Girls Band Party!: 5th Anniversary Animation - CiRCLE THANKS PARTY! - Insert Song",
+    "name": "\"CiRCLE THANKS MUSIC♪\" by CiRCLE THANKS PARTY! Special Band",
+    "video": "https://eudist.animemusicquiz.com/a5rwum.webm",
+    "mp3": null
+  },
+  {
+    "id": 61,
+    "anime": "Uma Musume: Pretty Derby Season 3 - Ending 6",
+    "name": "\"Uma Pyoi Densetsu\" by Uma Musume 3",
+    "video": "https://eudist.animemusicquiz.com/fpxo6v.webm",
+    "mp3": null
+  },
+  {
+    "id": 62,
+    "anime": "Turkey! - Opening 1",
+    "name": "\"Hyakunichisou\" by Nagano-ken Ikkoku-kan Koukou Bowling-bu",
+    "video": "https://eudist.animemusicquiz.com/iv1x470k73at7tsn.webm",
+    "mp3": null
+  },
+  {
+    "id": 63,
+    "anime": "Oomuro-ke - Ending 1",
+    "name": "\"Oogesa ni Ai to Yobunda\" by Rina Hidaka, Reo Kurachi, Ayasa Ito, Aoi Koga",
+    "video": "https://eudist.animemusicquiz.com/m36drw.webm",
+    "mp3": null
+  },
+  {
+    "id": 64,
+    "anime": "Elf-san wa Yaserarenai. - Ending 7",
+    "name": "\"Minna DE Diet\" by Demo Tabe-tai",
+    "video": "https://eudist.animemusicquiz.com/a7bb9b.webm",
+    "mp3": null
+  },
+  {
+    "id": 65,
+    "anime": "Cardfight!! Vanguard Divinez Deluxe Kesshou-hen - Ending 1",
+    "name": "\"Drive Your Heart\" by Poppin'Party",
+    "video": "https://eudist.animemusicquiz.com/bllhu3x09nesmlyj.webm",
+    "mp3": null
+  },
+  {
+    "id": 66,
+    "anime": "Maou no Musume wa Yasashi Sugiru!! - Insert Song",
+    "name": "\"Itazura Time\" by Misaki Kuno & Ayasa Ito",
+    "video": "https://eudist.animemusicquiz.com/4t13w2uyhcrgv0q6.webm",
+    "mp3": null
+  },
+  {
+    "id": 67,
+    "anime": "Naoe-kun wa Yasesasetai. - Ending 1",
+    "name": "\"Mugen Mogumogu Time!\" by Ayasa Ito",
+    "video": "https://eudist.animemusicquiz.com/xvo7jaw22xdogq89.webm",
+    "mp3": null
+  }
 ]
